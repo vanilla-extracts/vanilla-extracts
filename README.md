@@ -2,31 +2,41 @@
 
 🖥️ Hello! I'm 22, former student at @univ-rennes1 (ISTIC) in Computer Science after a cycle of two years in _classe préparatoires aux grandes écoles_ 
 
-🧮 I work mainly in Theoretical Computer Science, in formal language theory, I'm only starting to learn it so my work is not very advanced, you can check [calc](https://github.com/coco33920/calc), [Baguette#](https://github.com/coco33920/ocaml-baguettesharp-interpreter) or [STARFinder](https://github.com/coco33920/STARFinder) for more information.
+🧮 I used to work on programming language theory. You can check [calc](https://github.com/coco33920/calc), [Baguette#](https://github.com/coco33920/ocaml-baguettesharp-interpreter), or [STARFinder](https://github.com/co33920/STARFinder) for more information.
 
 In February 2023 I started an internship at IRISA/INRIA Rennes, at the [PACAP Team](https://team.inria.fr/pacap/presentation/), where I worked on [OFast3D](https://project.inria.fr/ofast3d/). This internship ended in July 2023.
+
 My end-of-study internship was in the [EPICURE Team](https://team.inria.fr/epicure/), where I worked on the [back-to-the-trees](https://back-to-the-trees.gitlabpages.inria.fr/plantinator/) project. This internship ended in July 2024.
 
-I am now an IT specialist
+I am now an IT specialist and a state civil servant.
 
 🌈 She/her
 
 📫 I'm *always* available to chat or answer question, by mail ( *me [at] charlotte-thomas.me* ), or Discord ( vanilla_extracts ).
 
-See more in [my webpage](https://charlotte-thomas.me)
+See more on [my webpage](https://www.charlotte-thomas.me)
 
 ### My Work
-As I said above I work now in formal language theory, primarily in *OCaml* and *Rust* but also in *Scala* (which my University requires), I plan to learn Coq as I continue (and Haskell). I'm actively developing _Baguette#_ (read Baguette Sharp) which is an exotic language with a horrible syntax and where all instruction, basic library, keywords and separators are replaced by names of pastries (mainly French but I ran out of French pastries a while ago)
+I plan to learn Coq as I continue (and Haskell). I'm actively developing _Baguette#_ (read Baguette Sharp) which is an exotic language with a horrible syntax and where all instruction, basic library, keywords and separators are replaced by names of pastries (mainly French but I ran out of French pastries a while ago)
 
-I love [calc](https://github.com/vanilla-extracts/calc) as well, which is a calculator programmed in Rust with a Pratt parser method. You can check it out, it's worth an eye :)
+I also love [calc](https://github.com/vanilla-extracts/calc), which is a calculator programmed in Rust with a Pratt parser method. You can check it out, it's worth an eye :)
 
-If you want to see more see my [cv (🇫🇷)](https://github.com/vanilla-extracts/cv/blob/master/cv_2024.pdf) or [cv (🇬🇧)](https://github.com/vanilla-extracts/cv/blob/master/cv_2024_en.pdf) 
-coded in Typst: the modern replacement of LaTeX. I love how flexible and powerful Typst is you should check out their [website](https://typst.app) to become part of the #TypstFamily. I am a proud supporter of their work and one of the most prolific community contributors.
+### CV
+
+If you want to see more see my [cv (🇫🇷)](https://www.charlotte-thomas.me/static/cv_fr.pdf) or [cv (🇬🇧)](https://www.charlotte-thomas.me/static/cv_en.pdf)
+
+My CVs are typeset using Typst. I love how flexible and powerful Typst is. You should check out their [website](https://typst.app) to become part of the #TypstFamily. I am a proud supporter of their work and one of the most prolific community contributors.
+
+I also have CVs as manpages:
+```bash
+curl https://www.charlotte-thomas.me/static/cv_en.man | man -l -
+```
+You can replace `cv_en.man` with `cv_fr.man` for the French translation.
 
 <img src="https://github.com/vanilla-extracts/vanilla-extracts/assets/17108449/34a5422d-8721-4593-b776-892c1ea74962" width="80em"/>
 
 ### Skills
-[![My Skills](https://skillicons.dev/icons?i=rust,ocaml,cpp,java,scala,md,git,github,gitlab,linux,neovim,idea,nginx)]()
+[![My Skills](https://skillicons.dev/icons?i=rust,ocaml,cpp,java,scala,md,git,github,gitlab,linux,neovim,nginx)]()
 
 <br>
 
