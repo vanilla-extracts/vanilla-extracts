@@ -46,4 +46,4 @@ You can replace `cv_en.man` with `cv_fr.man` for the French translation.
 
 ![stats](https://github-readme-stats.vercel.app/api?username=vanilla-extracts&count_private=true&show_icons=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d) 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=vanilla-extracts&theme=tokyonight&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=vanilla-extracts&theme=dark)](https://git.io/streak-stats)
