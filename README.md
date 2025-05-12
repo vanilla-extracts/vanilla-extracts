@@ -1,6 +1,6 @@
 ## Welcome to the _charlotte zone_ !
 
-🖥️ Hello! I'm 22, former student at @univ-rennes1 (ISTIC) in Computer Science after a cycle of two years in _classe préparatoires aux grandes écoles_ 
+🖥️ Hello! I'm 23, former student at @univ-rennes1 (ISTIC) in Computer Science after a cycle of two years in _classe préparatoires aux grandes écoles_ 
 
 🧮 I used to work on programming language theory. You can check [calc](https://github.com/coco33920/calc), [Baguette#](https://github.com/coco33920/ocaml-baguettesharp-interpreter), or [STARFinder](https://github.com/co33920/STARFinder) for more information.
 
